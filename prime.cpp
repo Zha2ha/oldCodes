@@ -34,7 +34,7 @@ int main()
 		k++;
 	}
 	cout << endl;
-	cout << "there ara " << cnt << "number" << endl;
+	cout << "there are " << cnt << "number" << endl;
 
 	return 0;
 }
